@@ -10,7 +10,7 @@
     <?php echo '<h1> Welcome to HTTP 5225</h1>' ?>
     <?php echo '<p> We will learn PHP In this class. </p>'?>
     <?php 
-    echo '<ul>
+    echo '<ul> 
      <li>PHP</li>
      <li>MYSQL</li>
      <li>LARAVEL</li>
